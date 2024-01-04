@@ -11,3 +11,7 @@ This project aimed to get more hands-on practice with what you can do with data.
 
 ## Link to the Tableau Dashboard
 https://public.tableau.com/views/BikeSharing_17043397429250/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+## Link to the Dataset
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
